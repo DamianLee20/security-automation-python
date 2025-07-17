@@ -1,21 +1,34 @@
-# Security Automation with Python 🛡️
+# 🛡️ Security Automation with Python
 
-This project automates log parsing, anomaly detection, and alerting using Python. It showcases how SOC analysts can reduce manual work and improve threat visibility through scripting.
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+[![Last Updated](https://img.shields.io/badge/Last_Updated-July_2025-orange)]()
 
-## Features
+This project automates log parsing, anomaly detection, and alerting using Python scripting. It simulates key tasks performed by SOC analysts and blue teams to streamline security operations.
 
-- 🧾 Log Parsing (Regex-based)
-- ⚠️ Anomaly Detection (e.g., failed logins, critical errors)
-- 🔁 Automated Workflows
-- 📬 Alerting Simulation
-- 📊 Output to JSON for integration
+---
 
-## How to Run
+## 🚀 Features
+
+- 🔍 **Log Parsing** with Regex
+- ⚠️ **Anomaly Detection** (e.g. failed logins, critical events)
+- 📬 **Alert Simulation**
+- 🔁 **Shell Script Workflow**
+- 📁 JSON Output for further processing
+
+---
+
+## 📂 How to Use
 
 ```bash
+git clone https://github.com/DamianLee20/security-automation-python.git
+cd security-automation-python
+python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
 bash scripts/workflow_example.sh
 
-2025-07-17 10:23:12 INFO User login successful
-2025-07-17 10:25:48 CRITICAL Failed login attempt for user admin
+## 🎥 Demo
+
+[![asciicast](https://asciinema.org/a/V7jhRvjcQNjQbWLHI7eIaypU8.svg)](https://asciinema.org/a/V7jhRvjcQNjQbWLHI7eIaypU8)
 
