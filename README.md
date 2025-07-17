@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 [![Last Updated](https://img.shields.io/badge/Last_Updated-July_2025-orange)]()
 
+Real-time SOC alerting engine built with Python — includes log parsing, IP geolocation, Slack alerts, Streamlit dashboard, and watchdog monitoring.
+
 This project automates log parsing, anomaly detection, and alerting using Python scripting. It simulates key tasks performed by SOC analysts and blue teams to streamline security operations.
 
 ---
