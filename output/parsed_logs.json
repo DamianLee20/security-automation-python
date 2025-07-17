@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-07-17 10:23:12",
+        "level": "INFO",
+        "msg": "User login successful"
+    },
+    {
+        "timestamp": "2025-07-17 10:24:08",
+        "level": "WARNING",
+        "msg": "Disk space low"
+    },
+    {
+        "timestamp": "2025-07-17 10:25:48",
+        "level": "CRITICAL",
+        "msg": "Failed login attempt for user admin"
+    },
+    {
+        "timestamp": "2025-07-17 10:27:02",
+        "level": "INFO",
+        "msg": "User login successful"
+    },
+    {
+        "timestamp": "2025-07-17 10:28:22",
+        "level": "ERROR",
+        "msg": "Database timeout"
+    },
+    {
+        "timestamp": "2025-07-17 10:29:31",
+        "level": "CRITICAL",
+        "msg": "Unauthorized access attempt detected"
+    }
+]

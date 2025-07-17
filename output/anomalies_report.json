@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2025-07-17 10:25:48",
+        "level": "CRITICAL",
+        "msg": "Failed login attempt for user admin"
+    },
+    {
+        "timestamp": "2025-07-17 10:29:31",
+        "level": "CRITICAL",
+        "msg": "Unauthorized access attempt detected"
+    }
+]

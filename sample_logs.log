@@ -1,0 +1,7 @@
+2025-07-17 10:23:12 INFO User login successful
+2025-07-17 10:24:08 WARNING Disk space low
+2025-07-17 10:25:48 CRITICAL Failed login attempt for user admin
+2025-07-17 10:27:02 INFO User login successful
+2025-07-17 10:28:22 ERROR Database timeout
+2025-07-17 10:29:31 CRITICAL Unauthorized access attempt detected
+
